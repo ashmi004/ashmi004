@@ -25,9 +25,9 @@ Hello! I'm a tech-friendly person passionate about exploring and mastering vario
 
 ### 🛠️ Languages and Tools:
 
-- **Languages:** Python, JavaScript, HTML/CSS
+- **Languages:** Python, JavaScript, HTML/CSS, C++
 - **Frameworks/Libraries:** React, Node.js, TensorFlow, Scikit-learn, NEXTJs
-- **Tools:** Git, Docker, VS Code, Jupyter Notebook
+- **Tools:** Git, Docker, VS Code, Jupyter Notebook, DSA
 
 ---
 
